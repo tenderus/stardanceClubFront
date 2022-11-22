@@ -1,0 +1,40 @@
+.css-yuzg60-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected{
+    background-color: #ff9999 !important;
+    color: white !important;
+}
+
+.css-yuzg60-MuiButtonBase-root-MuiPaginationItem-root {
+    color: #ada09c !important;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.css-ahj2mt-MuiTypography-root {
+    font-family: 'Montserrat', sans-serif !important;
+    color: #ada09c !important;
+    font-weight: normal;
+}
+
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked, .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate {
+    color: #ff9999 !important;
+}
+
+.css-ag7rrr-MuiTypography-root {
+    font-family: 'Montserrat', sans-serif !important;
+    color: #ada09c !important;
+}
+
+.css-9eg9l8-MuiTypography-root {
+    font-family: 'Montserrat', sans-serif !important;
+    color: #ada09c !important;
+    font-weight: normal !important;
+    font-style: normal !important;
+}
+
+.css-wjh20t-MuiPagination-ul {
+    float: right !important;
+    margin-right: 36% !important;
+}
+
+input {
+    border-color: #ada09c !important;
+}

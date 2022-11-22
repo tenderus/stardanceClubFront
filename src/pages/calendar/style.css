@@ -1,0 +1,43 @@
+.fc-widget-header {
+  background-color: #424242;
+}
+
+a.fc-col-header-cell-cushion {
+  color: #ff9999;
+  font-weight: bold;
+}
+a.fc-daygrid-day-number {
+  color: #ff9999;
+  font-weight: bold;
+}
+
+h2.fc-toolbar-title {
+  color: #ada09c
+}
+
+.fc .fc-button-primary {
+  background-color: #ff9999;
+  border-color:  #ada09c;
+}
+
+.fc .fc-button:disabled {
+  background-color: #ff9999;
+  border-color:  #ada09c;
+}
+
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover {
+  background-color: #ff9999 !important;
+  color: white !important;
+}
+
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  background-color: white !important;
+  border-color: #ff9999 !important;
+  color: #ff9999 !important;
+}
+
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root:hover {
+  background-color: #ff9999 !important;
+  color: white !important;
+}
+
